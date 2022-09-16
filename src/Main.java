@@ -28,7 +28,7 @@ public class Main {
                 String answer = translate.translate(inputScanner);
                 System.out.println(answer);
             }else {
-                System.out.println(ongeldig);
+                  System.out.println(ongeldig);
             }
 
 
